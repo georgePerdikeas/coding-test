@@ -1,0 +1,1 @@
+export const PAGE_BOOK_LIST_BS_COLUMNS = 8;
